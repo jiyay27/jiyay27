@@ -11,7 +11,7 @@ I've mainly been focusing on GRC for organizations.
 - Windows, Linux (Kali/Fedora)
 - Obsidian, MyScript, Samsung Notes
 
-### About Me
+## About Me
 - 💀 Monster > Coffee
 - ♟️ I love Dota 2
 - 📺 Also into GoT, LoTr, and X-Men
