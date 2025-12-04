@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I [JJ](https://www.linkedin.com/in/jjdonato/), a **Cybersecurity** student based in the Philippines! 
+I JJ, a **Cybersecurity** student based in the Philippines! 
 
 I enjoy understanding systems at a low level and secure web development! 
 
