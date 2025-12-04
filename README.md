@@ -1,7 +1,7 @@
 ## Hey there! 👋
-I JJ, a **Cybersecurity** student based in the Philippines! 
+I'm JJ, a **Cybersecurity** student based in the Philippines! 
 
-I enjoy understanding systems at a low level and secure web development! 
+I enjoy learning about systems at a low level and secure web development! 
 
 I've mainly been focusing on GRC for organizations.
 
