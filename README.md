@@ -1,13 +1,13 @@
 ## Hey there! 👋
 I'm JJ, a **Cybersecurity** student based in the Philippines! 
 
-I enjoy learning about systems at a low level and secure web development! 
+I enjoy learning about systems at a low level, secure web development, and generally looking at the details! 
 
-I've mainly been focusing on GRC for organizations.
+Recently, I've been focusing on Web Security.
 
 ## Tech I Use 
 - Python, C/C++, Java
-- Node.js, Express.js, MongoDB
+- MERN, and Django
 - Windows, Linux (Kali/Fedora)
 - Obsidian, MyScript, Samsung Notes
 
