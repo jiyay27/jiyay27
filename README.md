@@ -14,4 +14,4 @@ Recently, I've been focusing on Scripting, and getting deeper into Encoding/Deco
 ## About Me
 - 💀 Monster > Coffee
 - ♟️ I love Dota 2
-- 📺 Also into GoT, LoTr, and TheBoyz
+- 📺 Also into GoT, LoTr, and TheBoys
